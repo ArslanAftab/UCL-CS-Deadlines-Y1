@@ -1,4 +1,4 @@
-# UCL-CS-Deadlines-Y1 
+# UCL-CS-Deadlines-Y1 :rocket:
 
 ## Term 2
 
