@@ -2,25 +2,29 @@
 
 ## Term 2
 
-ENGF2:
-- [x] Scenario 1 - 12 Feb 
-- [ ] Ethics Presentation Slides - 24 Hrs before Presentation
-- [ ] Ethics Presentation - Chosen Slot
-- [ ] Ethics Report - 26 Feb 
-- [ ] Scenario 2 - 26 March 
+ENGF2: | Date
+------------ | -------------
+Scenario 1 | 12 Feb 
+Ethics Presentation Slides | 24 Hrs before Presentation
+Ethics Presentation | Chosen Slot
+Ethics Report | 26 Feb 
+Scenario 2 | 26 Mar
 
-COMP4:
-- [x] Java coursework - 8 Feb 
-- [ ] Coursework 2 - 22 Mar
+COMP4: | Date
+------------ | -------------
+Java coursework | 8 Feb 
+Coursework 2 | 22 Mar
 
-COMP12:
-- [ ] Compilers Individual - 1 Mar 
+COMP12: | Date
+------------ | -------------
+Compilers Individual | 1 Mar 
 
-COMP3:
-- [x] Quiz - 3 Feb 
-- [ ] Quiz - 17 Feb 
-- [ ] Quiz - 17 Mar
-- [ ] Quiz - 31 Mar
+COMP3: | Date
+------------ | -------------
+Quiz | 3 Feb 
+Quiz | 17 Feb 
+Quiz | 17 Mar
+Quiz | 31 Mar
 
 COMP5:
 - [ ] Group Coursework - 8 Mar 
