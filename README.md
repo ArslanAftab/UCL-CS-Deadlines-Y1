@@ -18,7 +18,7 @@ COMP12:
 
 COMP3:
 * - [x] Quiz  3 Feb 
-* - [ ] Quiz  17 Feb 
+* - [x] Quiz  17 Feb 
 * - [ ] Quiz  17 Mar
 * - [ ] Quiz  31 Mar
 
