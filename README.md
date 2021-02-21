@@ -5,7 +5,7 @@
 ENGF2: 
 * - [x] Scenario 1  12 Feb 
 * - [x] Ethics Presentation Slides 24 Hrs before Presentation
-* - [ ] Ethics Presentation  Chosen Slot
+* - [x] Ethics Presentation  Chosen Slot
 * - [ ] Ethics Report  26 Feb 
 * - [ ] Scenario 2  26 Mar
 
