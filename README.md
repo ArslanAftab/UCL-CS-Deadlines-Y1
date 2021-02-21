@@ -45,4 +45,5 @@ COMP12:
 COMP147:
 * - [ ] Exam  TBC
 
+## End of year - 11th June
 
