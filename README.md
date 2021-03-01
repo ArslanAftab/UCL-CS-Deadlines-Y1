@@ -7,7 +7,7 @@ ENGF2:
 * - [x] Scenario 1  12 Feb 
 * - [x] Ethics Presentation Slides 24 Hrs before Presentation
 * - [x] Ethics Presentation  Chosen Slot
-* - [ ] Ethics Report  26 Feb 
+* - [x] Ethics Report  26 Feb 
 * - [ ] Scenario 2  26 Mar
 
 COMP4: 
@@ -15,7 +15,7 @@ COMP4:
 * - [ ] Coursework 2  22 Mar
 
 COMP12: 
-* - [ ] Compilers Individual  1 Mar 
+* - [x] Compilers Individual  1 Mar 
 
 COMP3:
 * - [x] Quiz  3 Feb 
@@ -32,7 +32,7 @@ COMP2:
 * - [ ] Coursework 3  TBC
 
 COMP3:
-* - [ ] Exam  TBC
+* - [ ] Exam  28-29 April
 
 COMP4:
 * - [ ] Coursework 3  TBC
@@ -41,10 +41,10 @@ COMP5:
 * - [ ] Individual CW  TBC
 
 COMP12:
-* - [ ] Exam  TBC
+* - [ ] Exam  4-5 May
 
 COMP147:
-* - [ ] Exam  TBC
+* - [ ] Exam  6-7 May
 
 ## End of year - 11th June
 
