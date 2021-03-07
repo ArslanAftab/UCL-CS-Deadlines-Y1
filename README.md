@@ -1,7 +1,7 @@
 # UCL-CS-Deadlines-Y1 :rocket:
 
 ## Term 2
-### We are in week 8
+### We are in Term 2 Week 8
 
 ENGF2: 
 * - [x] Scenario 1  12 Feb 
