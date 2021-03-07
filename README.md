@@ -1,7 +1,7 @@
 # UCL-CS-Deadlines-Y1 :rocket:
 
 ## Term 2
-### We are in week 7
+### We are in week 8
 
 ENGF2: 
 * - [x] Scenario 1  12 Feb 
@@ -16,6 +16,7 @@ COMP4:
 
 COMP12: 
 * - [x] Compilers Individual  1 Mar 
+* - [ ] Compilers Group TBC
 
 COMP3:
 * - [x] Quiz  3 Feb 
