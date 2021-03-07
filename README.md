@@ -9,6 +9,7 @@ ENGF2:
 * - [x] Ethics Presentation  Chosen Slot
 * - [x] Ethics Report  26 Feb 
 * - [ ] Scenario 2  26 Mar
+* - [ ] Scenario Teamwork Review 1 Apr
 
 COMP4: 
 * - [x] Java coursework  8 Feb 
@@ -16,7 +17,7 @@ COMP4:
 
 COMP12: 
 * - [x] Compilers Individual  1 Mar 
-* - [ ] Compilers Group TBC
+* - [ ] Compilers Group 12 Apr
 
 COMP3:
 * - [x] Quiz  3 Feb 
