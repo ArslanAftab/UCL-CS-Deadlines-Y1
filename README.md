@@ -26,7 +26,7 @@ COMP3:
 * - [ ] Quiz  31 Mar
 
 COMP5:
-* - [ ] Group Coursework  8 Mar 
+* - [x] Group Coursework  8 Mar 
 
 ## Term 3 
 
