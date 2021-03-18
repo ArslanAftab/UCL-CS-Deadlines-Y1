@@ -13,7 +13,7 @@ ENGF2:
 
 COMP4: 
 * - [x] Java coursework  8 Feb 
-* - [ ] Coursework 2  29 Mar
+* - [ ] Java Swing Coursework  29 Mar
 
 COMP12: 
 * - [x] Compilers Individual  1 Mar 
