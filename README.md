@@ -31,7 +31,7 @@ COMP5:
 ## Term 3 
 
 COMP2:
-* - [ ] Coursework 3  TBC
+* - [ ] Coursework 3 12 May
 
 COMP3:
 * - [ ] Exam  28-29 April
@@ -48,5 +48,5 @@ COMP12:
 COMP147:
 * - [ ] Exam  6-7 May
 
-## End of year - 11th June
+## End of year - 11th June (Technically after last exam/cw)
 
