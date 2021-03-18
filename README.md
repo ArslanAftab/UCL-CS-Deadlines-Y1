@@ -1,5 +1,5 @@
 # UCL-CS-Deadlines-Y1 :rocket:
-### We are in Term 2 Week 8
+### We are in Term 2 Week 9
 
 ## Term 2
 
@@ -8,21 +8,21 @@ ENGF2:
 * - [x] Ethics Presentation Slides 24 Hrs before Presentation
 * - [x] Ethics Presentation  Chosen Slot
 * - [x] Ethics Report  26 Feb 
-* - [ ] Scenario 2  26 Mar
-* - [ ] Scenario Teamwork Review 1 Apr
+* - [ ] Scenario 2 (Code + Video) 1 Apr
+* - [ ] Scenario 2 (Teamwork Review) 12 Apr
 
 COMP4: 
 * - [x] Java coursework  8 Feb 
-* - [ ] Coursework 2  22 Mar
+* - [ ] Coursework 2  29 Mar
 
 COMP12: 
 * - [x] Compilers Individual  1 Mar 
-* - [ ] Compilers Group 12 Apr
+* - [ ] Compilers Group 14 Apr
 
 COMP3:
 * - [x] Quiz  3 Feb 
 * - [x] Quiz  17 Feb 
-* - [ ] Quiz  17 Mar
+* - [x] Quiz  17 Mar
 * - [ ] Quiz  31 Mar
 
 COMP5:
@@ -40,7 +40,7 @@ COMP4:
 * - [ ] Coursework 3  TBC
 
 COMP5:
-* - [ ] Individual CW  TBC
+* - [ ] Individual CW  27 April
 
 COMP12:
 * - [ ] Exam  4-5 May
