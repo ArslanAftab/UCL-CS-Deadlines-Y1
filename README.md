@@ -1,5 +1,5 @@
 # UCL-CS-Deadlines-Y1 :rocket:
-### We are in Term 2 Week 9
+### We are in Term 2 Week 10
 
 ## Term 2
 
