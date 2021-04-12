@@ -8,8 +8,8 @@ ENGF2:
 * - [x] Ethics Presentation Slides 24 Hrs before Presentation
 * - [x] Ethics Presentation  Chosen Slot
 * - [x] Ethics Report  26 Feb 
-* - [ ] Scenario 2 (Code + Video) 1 Apr
-* - [ ] Scenario 2 (Teamwork Review) 12 Apr
+* - [x] Scenario 2 (Code + Video) 1 Apr
+* - [x] Scenario 2 (Teamwork Review) 12 Apr
 
 COMP4: 
 * - [x] Java coursework  8 Feb 
@@ -23,7 +23,7 @@ COMP3:
 * - [x] Quiz  3 Feb 
 * - [x] Quiz  17 Feb 
 * - [x] Quiz  17 Mar
-* - [ ] Quiz  31 Mar
+* - [x] Quiz  31 Mar
 
 COMP5:
 * - [x] Group Coursework  8 Mar 
